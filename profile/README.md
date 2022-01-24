@@ -4,7 +4,7 @@
 
 # G'day Mate
 
-[![Discord](https://img.shields.io/discord/835714549545828352?style=flat-square)](https://discord.gg/xNkretH7sD) ![Profile views](https://img.shields.io/badge/dynamic/json?color=yellow&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbrowser.fushra.com%2Fvisits&style=flat-square)
+[![Discord](https://img.shields.io/discord/835714549545828352?style=flat-square)](https://discord.gg/xNkretH7sD)
 
 We are a small (read two people) team trying to make building and maintaining
 custom web browsers far simpler.
